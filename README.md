@@ -159,7 +159,7 @@
     </div>
 
     <div class="footer">
-        © 2026 Health & Well-Being Page
+        © 2025  Iaac Ofosu Health & Well-Being Page
     </div>
 
 </div>
