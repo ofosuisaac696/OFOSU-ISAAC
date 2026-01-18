@@ -2,37 +2,37 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Technology and Innovation</title>
+    <title>Health and Well-Being</title>
 
     <style>
         body {
-            background-color: #2f2f2f;
+            background-color: #0f172a;
             font-family: Arial, Helvetica, sans-serif;
         }
 
         .container {
             width: 900px;
-            margin: 20px auto;
-            background-color: #eef2f3;
-            border: 4px solid #222;
+            margin: 25px auto;
+            background-color: #f1f5f9;
+            border: 4px solid #020617;
         }
 
         /* Header */
         .header {
-            background-image: url("https://images.unsplash.com/photo-1518770660439-4636190af475");
+            background-image: url("https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7");
             background-size: cover;
             background-position: center;
-            color: white;
-            padding: 45px 25px;
+            color: #ffffff;
+            padding: 50px 25px;
         }
 
         .header h1 {
             margin: 0;
-            font-size: 34px;
+            font-size: 36px;
         }
 
         .header p {
-            margin-top: 5px;
+            margin-top: 6px;
             letter-spacing: 2px;
             font-size: 14px;
         }
@@ -44,47 +44,49 @@
 
         .main-content {
             width: 65%;
-            padding: 20px;
+            padding: 22px;
         }
 
         .main-content h2 {
-            color: #005f73;
+            color: #065f46;
         }
 
         .main-content p {
             text-align: justify;
-            line-height: 1.6;
+            line-height: 1.7;
+            color: #020617;
         }
 
         /* Sidebar */
         .sidebar {
             width: 35%;
-            background-color: #94d2bd;
-            padding: 20px;
+            background-color: #bbf7d0;
+            padding: 22px;
         }
 
         .sidebar h3 {
-            background-color: #0a9396;
+            background-color: #047857;
             color: white;
-            padding: 8px;
+            padding: 10px;
             margin-top: 0;
         }
 
         .sidebar ul {
             padding-left: 20px;
-            list-style-type: square;
+            list-style-type: circle;
         }
 
         .sidebar li {
-            margin-bottom: 8px;
+            margin-bottom: 10px;
+            color: #064e3b;
         }
 
         /* Footer */
         .footer {
-            background-color: #0a9396;
+            background-color: #047857;
             color: white;
             text-align: center;
-            padding: 12px;
+            padding: 14px;
             font-size: 14px;
         }
     </style>
@@ -95,76 +97,69 @@
 <div class="container">
 
     <div class="header">
-        <h1>TECHNOLOGY</h1>
-        <p>INNOVATION & DIGITAL TRANSFORMATION</p>
+        <h1>HEALTH</h1>
+        <p>WELL-BEING & QUALITY OF LIFE</p>
     </div>
 
     <div class="content">
 
         <div class="main-content">
-            <h2>Technology</h2>
+            <h2>Health</h2>
             <p>
-                Technology refers to the practical application of scientific knowledge to solve
-                human problems and make life easier. It includes the use of tools, machines,
-                systems, and techniques that help humans perform tasks more efficiently.
-                From simple inventions such as the wheel to advanced digital devices like
-                smartphones and computers, technology has continued to evolve over time.
-                Today, technology plays a very important role in education, healthcare,
-                communication, transportation, and economic development across the world.
+                Health is a state of complete physical, mental, and social well-being and not
+                merely the absence of disease. Good health enables individuals to perform their
+                daily activities effectively and live productive lives. Maintaining good health
+                requires balanced nutrition, regular physical activity, adequate rest, and
+                access to proper healthcare services.
             </p>
 
-            <h2>Information Technology</h2>
+            <h2>Healthy Lifestyle</h2>
             <p>
-                Information Technology (IT) is a branch of technology that focuses on the use
-                of computers and telecommunications to store, retrieve, process, and transmit
-                information. IT systems include computer hardware, software applications,
-                databases, and computer networks. In schools and organizations, information
-                technology improves record keeping, enhances communication, and supports
-                effective decision making. The growth of the internet has made IT a powerful
-                tool for global interaction and knowledge sharing.
+                A healthy lifestyle involves making choices that promote long-term well-being.
+                These choices include eating nutritious food, engaging in regular exercise,
+                avoiding harmful substances, and managing stress effectively. Adopting healthy
+                habits helps prevent chronic diseases and improves overall quality of life.
             </p>
 
-            <h2>Innovation</h2>
+            <h2>Mental Well-Being</h2>
             <p>
-                Innovation is the process of introducing new ideas, methods, or products that
-                bring improvement and positive change. It involves creativity, critical
-                thinking, and problem solving skills. In the digital era, innovation has led
-                to major advancements such as artificial intelligence, mobile applications,
-                and smart technologies. These innovations have transformed the way people
-                learn, work, and communicate, and they continue to drive social and economic
-                development in modern societies.
+                Mental well-being refers to an individual’s emotional and psychological state.
+                It affects how people think, feel, and behave in daily life. Good mental health
+                enables individuals to cope with stress, build positive relationships, and make
+                sound decisions. Awareness and support are essential in promoting mental
+                well-being in society.
             </p>
         </div>
 
         <div class="sidebar">
             <h3>Related Topics</h3>
 
-            <strong>Computing</strong>
+            <strong>Physical Health</strong>
             <ul>
-                <li>Computer Hardware</li>
-                <li>Software Systems</li>
-                <li>Databases</li>
+                <li>Exercise</li>
+                <li>Nutrition</li>
+                <li>Rest and Sleep</li>
             </ul>
 
-            <strong>Digital World</strong>
+            <strong>Mental Health</strong>
             <ul>
-                <li>Artificial Intelligence</li>
-                <li>Internet of Things</li>
-                <li>Cybersecurity</li>
+                <li>Stress Management</li>
+                <li>Emotional Balance</li>
+                <li>Self-care</li>
             </ul>
 
-            <strong>Education</strong>
+            <strong>Public Health</strong>
             <ul>
-                <li>ICT in Schools</li>
-                <li>E-learning</li>
-                <li>Digital Literacy</li>
+                <li>Disease Prevention</li>
+                <li>Health Education</li>
+                <li>Sanitation</li>
             </ul>
         </div>
 
     </div>
 
     <div class="footer">
-        © 2026 Larbi Abraham Technology & Innovation Page
+        © 2026 Health & Well-Being Page
     </div>
 
 </div>
